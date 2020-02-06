@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vgreen Auto Driver</string>
+    <string name="company_name">http://jmd-infotech.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="share_app">Share App</string>
+    <string name="logout">Logout</string>
+    <string name="change_password">Change Password</string>
+
+
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="completed_order">Completed Order</string>
+    <string name="canceled_order">Canceled Order</string>
+    <string name="pending_order">Pending Order</string>
+    <string name="shipped_order">Shipped Order</string>
+</resources>

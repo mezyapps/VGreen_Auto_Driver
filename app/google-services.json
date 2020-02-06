@@ -1,0 +1,176 @@
+{
+  "project_info": {
+    "project_number": "1043836083565",
+    "firebase_url": "https://bizprotect-b21ef.firebaseio.com",
+    "project_id": "bizprotect-b21ef",
+    "storage_bucket": "bizprotect-b21ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043836083565:android:51f58f27dba4bb53",
+        "android_client_info": {
+          "package_name": "com.mezyapps.bizprotect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043836083565-ubd6tnsqnsp5p501j7mu29kdir8a15qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezyapps.bizprotect",
+            "certificate_hash": "32eef84a158c91d9c250eb8f27aa3fa3dff75d8c"
+          }
+        },
+        {
+          "client_id": "1043836083565-7h81r40hdvnh3j84olmoioov83l48lj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezyapps.bizprotect",
+            "certificate_hash": "3ab277330f24b6ee74dd98c084383bd05a8acab1"
+          }
+        },
+        {
+          "client_id": "1043836083565-n1pqsh5q3d6ir1d7ff5f47emc2kft913.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezyapps.bizprotect",
+            "certificate_hash": "4e1ee9cf5aab6a95c46e747b692c0baad315c676"
+          }
+        },
+        {
+          "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHagz1vSvLBrCrgyUGerf55e4YQhMbP7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3637958081667905~9680701324"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043836083565:android:1f9dce26d3e66a03700e64",
+        "android_client_info": {
+          "package_name": "com.mezyapps.new_reportanalyst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043836083565-tjkav516ghusibdmo0a02jk5i9fobq19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezyapps.new_reportanalyst",
+            "certificate_hash": "32eef84a158c91d9c250eb8f27aa3fa3dff75d8c"
+          }
+        },
+        {
+          "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHagz1vSvLBrCrgyUGerf55e4YQhMbP7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043836083565:android:70a6f5a69804eefb700e64",
+        "android_client_info": {
+          "package_name": "com.mezyapps.vgreen_autodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043836083565-oc0o1b1fse14jem0u14ks7jim1fhj5ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezyapps.vgreen_autodriver",
+            "certificate_hash": "32eef84a158c91d9c250eb8f27aa3fa3dff75d8c"
+          }
+        },
+        {
+          "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHagz1vSvLBrCrgyUGerf55e4YQhMbP7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043836083565:android:599797c014889d95700e64",
+        "android_client_info": {
+          "package_name": "com.mezyapps.vgreenbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043836083565-uttieghboien490hj8j00njvvav6mief.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mezyapps.vgreenbasket",
+            "certificate_hash": "32eef84a158c91d9c250eb8f27aa3fa3dff75d8c"
+          }
+        },
+        {
+          "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHagz1vSvLBrCrgyUGerf55e4YQhMbP7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043836083565-3b093g99umb3971hqfufkv31qkfrrn31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
